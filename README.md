@@ -22,6 +22,8 @@ Note, you don't have to submit results for all datasets (as shown in the example
 Further, if you want to integrate the algorithm that produced your scorings, you can submit it along with the predictions and we will include it under [the CD zoo](https://github.com/CausalRivers/experiments/tree/main/causal_discovery_zoo). We will reference it accordingly to your wishes.
 
 
+## Need more data for benchmarking?
+Check out our new work: [Website](https://tcd-arena.github.io/)
 
 
 
