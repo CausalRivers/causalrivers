@@ -23,7 +23,7 @@ Further, if you want to integrate the algorithm that produced your scorings, you
 
 
 ## Need more data for benchmarking?
-Check out our new work: [Website](https://tcd-arena.github.io/)
+Check out our new work: [TCD-Arena](https://tcd-arena.github.io/)
 
 
 
